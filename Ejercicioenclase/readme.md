@@ -1,2 +1,2 @@
-# Carpeta de ejercicios en clase -titulo principal
+# Carpeta de ejercicios en clase 
 ### En esta carpeta almacenaremos todos los ejercicios 
