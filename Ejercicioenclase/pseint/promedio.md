@@ -1,1 +1,1 @@
-este archivo calcula el promedio de un alumno en clase verion 1.0 
+este archivo calcula el promedio de un alumno en clase version 1.0 
